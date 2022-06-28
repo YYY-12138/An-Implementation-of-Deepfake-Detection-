@@ -1,2 +1,3 @@
 # An-Implementation-of-Deepfake-Detection-
-An Implementation of Deepfake Detection by YJC
+An integration of Deepfake and Deepfake Detection -- Colleced by YJC
+And detect video and label the boxes of fake faces -- Coded by YJC
